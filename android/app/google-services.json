@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160668271785",
+    "firebase_url": "https://salut-99791.firebaseio.com",
+    "project_id": "salut-99791",
+    "storage_bucket": "salut-99791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160668271785:android:e66775aea8dc1ff231d5b8",
+        "android_client_info": {
+          "package_name": "com.LeahSharon.salut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160668271785-hjeaojjqo72vi57ckn9ka94ebrcme48h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GS-hjkgCj8YuqNc06hPIG5TdPXj5Pk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160668271785-hjeaojjqo72vi57ckn9ka94ebrcme48h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
